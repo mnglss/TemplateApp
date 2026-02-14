@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="Api/Api.csproj" Id="1ccf00a7-87a1-4b3f-95c2-eee309a71735" />
+  <Project Path="Core/Core.csproj" Id="b3b53c76-4268-40ce-b6b0-cdf5ccc82c80" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="6fc64833-4163-4e66-8bbd-b4512d10984e" />
+</Solution>
